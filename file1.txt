@@ -1,2 +1,3 @@
 file1.txt
 -added fix
+-added another fix
